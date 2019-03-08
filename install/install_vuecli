@@ -1,3 +1,3 @@
-sudo npm i -g @vue/cli
-sudo chown -R cabox:cabox $HOME/.npm
-sudo chown -R cabox:cabox $HOME/.config
+sudo -H npm i -g @vue/cli
+#sudo chown -R cabox:cabox $HOME/.npm
+#sudo chown -R cabox:cabox $HOME/.config
