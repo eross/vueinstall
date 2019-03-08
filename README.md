@@ -1,2 +1,2 @@
-# vueclitraining
+# vuetraining
 learning vue
