@@ -2,4 +2,5 @@ sudo -H apt update
 sudo -H apt install -y python3
 sudo -H apt install -y python3-pip
 sudo -H pip3 install --upgrade pip
+sudo -H pip3 install django
 
